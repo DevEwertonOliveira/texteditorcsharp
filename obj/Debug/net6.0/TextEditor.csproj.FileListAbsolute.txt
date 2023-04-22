@@ -1,0 +1,15 @@
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/bin/Debug/net6.0/TextEditor
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/refint/TextEditor.dll
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
+/home/ewerton/Área de Trabalho/projetos/balta/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
